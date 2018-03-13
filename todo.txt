@@ -1,0 +1,4 @@
+make it so that certain responses (not "commit") are only triggered if the message is @CommitHelper. Or don't, could be funny... Can use already build regex to do this
+strip special characters from triggers, including upper / lower case
+make into windows service
+take over the world

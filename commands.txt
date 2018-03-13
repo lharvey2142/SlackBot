@@ -1,0 +1,2 @@
+hello;hi:HI!;Hello!;GREETINGS MEATBAG!
+goodbye;cya;later:Later!;Goodbye!;Bye!;Asta La Vista, Baby.;See you later!
